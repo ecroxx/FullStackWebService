@@ -1,1 +1,1 @@
-Full Stack Service template with Java/Spring backend and Vue JS frontend for 
+Full Stack Service template with Java/Spring backend and Vue JS frontend 
